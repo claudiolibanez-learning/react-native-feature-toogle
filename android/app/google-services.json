@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "277218284117",
+    "project_id": "feature-tests-a39e2",
+    "storage_bucket": "feature-tests-a39e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277218284117:android:ddf30e3e3a0b774d527adc",
+        "android_client_info": {
+          "package_name": "com.featuretoggle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277218284117-4nu67fqubhr6l2s9lj1dh800726omcv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbTEMTw38F9tu7Py9QE_sf8lAzt1Pz8IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277218284117-4nu67fqubhr6l2s9lj1dh800726omcv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
